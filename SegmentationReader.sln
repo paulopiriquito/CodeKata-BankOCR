@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegmentationReader", "SegmentationReader\SegmentationReader.csproj", "{57C45438-9D96-41AD-9CF9-AB7B2A50400D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegmentationReaderTest", "SegmentationReaderTest\SegmentationReaderTest.csproj", "{0EAAA921-B349-4446-A917-114A2374A8EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C45438-9D96-41AD-9CF9-AB7B2A50400D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C45438-9D96-41AD-9CF9-AB7B2A50400D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C45438-9D96-41AD-9CF9-AB7B2A50400D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C45438-9D96-41AD-9CF9-AB7B2A50400D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EAAA921-B349-4446-A917-114A2374A8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EAAA921-B349-4446-A917-114A2374A8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EAAA921-B349-4446-A917-114A2374A8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EAAA921-B349-4446-A917-114A2374A8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
